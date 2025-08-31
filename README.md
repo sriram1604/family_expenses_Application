@@ -1,4 +1,4 @@
-<h1 align="center"><img src="./assets/logo.png" alt="Home Screen" width="300"/>Simple Tamil Expense Tracker</h1>
+<h1 align="center"><img src="./assets/logo.png" alt="Home Screen" width="100"/>Simple Tamil Expense Tracker</h1>
 
 <p align="center">
 An intuitive and user-friendly mobile application built with React Native (Expo) to simplify monthly expense and balance tracking for my parents.
@@ -100,13 +100,13 @@ Enable Firestore Database in the Firebase console.
 ## 📱 Application Preview
 Here are some screenshots showcasing the app interface and Tamil language support:
 
-<p align="center"> <img src="screenshots/process1.jpg" alt="Home Screen" width="300"/><img src="screenshots/process2.jpg" alt="Home Screen" width="300"/> <img src="screenshots/process3.jpg" alt="Expanded Card" width="300"/> </p>
+<p align="center"><img src="screenshots/process1.jpg" alt="Home Screen" width="200"/>   <img src="screenshots/process2.jpg" alt="Home Screen" width="200"/> <img src="screenshots/process3.jpg" alt="Expanded Card" width="200"/> </p>
 
 
 ## ⬇️ Application File (APK)
 The Android application file (.apk) has been built using Expo Application Services (EAS).
 
-<p align="center"> <a href="<Your-APK-Download-Link>" target="_blank"> <img src="https://img.shields.io/badge/Download%20APK-28a745?style=for-the-badge&logo=android&logoColor=white" alt="Download APK"/> </a> </p>
+<p align="center"> <a href="https://expo.dev/artifacts/eas/nhNx7m7CE2sZ9aoFTM6JkA.apk" target="_blank"> <img src="https://img.shields.io/badge/Download%20APK-28a745?style=for-the-badge&logo=android&logoColor=white" alt="Download APK"/> </a> </p>
 Share the .apk from your local /builds folder or cloud storage.
 
 ## 📝 Summary

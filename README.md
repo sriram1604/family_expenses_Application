@@ -31,8 +31,8 @@ Managing family expenses manually was cumbersome for my parents, as they are not
 
 ```bash
 # Clone the repository
-git clone <Your-Repo-URL>
-cd <Your-Repo-Name>
+git clone https://github.com/sriram1604/family_expenses_Application.git
+cd folder_name
 
 # Install dependencies
 npm install
